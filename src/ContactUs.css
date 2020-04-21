@@ -1,0 +1,9 @@
+.store-descrip{
+    padding-top: 50px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 70em;
+    margin: 0 auto;
+    font-size: 1.27rem;
+}

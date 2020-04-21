@@ -1,0 +1,104 @@
+
+patriot red color is #C6242B
+
+blue color is #08112C
+
+sale color is #c4113f;
+delete price color is #615c65;
+
+
+
+                <Button variant="secondary" size="lg"><a href="tel:1-888-662-7287">Call Us</a></Button>
+                <Button variant="secondary" size="lg"><a href="tel:1-888-662-7287">Call Us</a></Button>
+
+
+
+    @media(min-width: 768px){
+        nav{
+            display: 'block';
+        }
+    }                
+
+
+
+==================================================================================================
+
+
+                    <StyleH3><h3>Featured</h3></StyleH3>
+                    
+                    
+                    <Container>
+                      <Row>
+                        <Col>
+                          <a href="#">
+                            <img src="./images/patriot-gear1.png" width="140px" height="auto" /><br />
+                            Patriots Do Your Job Scarf
+                            <br />
+                            <Button variant="light" size="sm">SALE!</Button>
+                            <br />
+                            <StyleSalePrice><span><del>$29.99</del><ins>$19.99</ins></span></StyleSalePrice>
+                          </a>
+                        </Col>          
+                        <Col>
+                        <a href="#">
+                          <img src="./images/patriot-gear2.png"  width="140px" height="auto" /><br />         
+                          Patriots Game Day Cups-18pk
+                          <br />
+                            <Button variant="light" size="sm">SALE!</Button>
+                          <br />
+                            <StyleSalePrice><span><del>$7.99</del><ins>$5.99</ins></span></StyleSalePrice>
+                        </a>
+                        </Col>
+                      </Row>
+                      <Row>
+                        <Col>
+                        <a href="#">
+                        <img src="./images/patriot-gear3.png"  width="140px" height="auto" /><br />
+                          Patriots Gronkowski Nation Bobble Head
+                          <br />
+                            <Button variant="light" size="sm">SALE!</Button>
+                          <br />
+                            <StyleSalePrice><span><del>$34.99</del><ins>$24.99</ins></span></StyleSalePrice>
+                        </a>
+                        </Col>
+                        <Col>
+                        <a href="#">
+                          <img src="./images/patriot-gear4.png" width="140px" height="auto" /><br />
+                          Patriots Tom Brady 2016 Funko Figure
+                          <br />
+                            <Button variant="light" size="sm">SALE!</Button>
+                          <br />
+                            <StyleSalePrice><span><del>$15.99</del><ins>$5.99</ins></span></StyleSalePrice>
+                        </a>
+                        </Col>    
+                      </Row>
+                      <Row>
+                        <Col>
+                        <a href="#">
+                          <img src="./images/patriot-gear5.png" width="140px" height="auto"/><br />
+                          Patriots Throwback Dual Hybrid Cover-IPhone 6
+                          <br />
+                            <Button variant="light" size="sm">SALE!</Button>
+                          <br />
+                            <StyleSalePrice><span><del>$24.99</del><ins>$14.99</ins></span></StyleSalePrice>
+                            </a>
+                        </Col>
+                        <Col>
+                        <a href="#">
+                          <img src="./images/patriot-gear6.png" width="140px" height="auto" /><br />
+                          Patriots Ice Mini Helmet
+                          <br />
+                            <Button variant="light" size="sm">SALE!</Button>
+                          <br />
+                            <StyleSalePrice><span><del>$34.99</del><ins>$24.99</ins></span></StyleSalePrice>
+                            </a>
+                        </Col>    
+                      </Row>
+                    </Container>
+                    <br />
+
+                    <div className="bottom-separator"></div> 
+
+
+
+

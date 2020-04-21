@@ -1,0 +1,3 @@
+when user clicks the item to buy, this will take them to the product page.
+
+-how do we store that same image and have it display it to the prd page?

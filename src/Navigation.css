@@ -1,0 +1,42 @@
+#discount-sect:hover{
+    transform: scale(1.8);
+    transition: .6s ease-out;   
+}
+
+#giftcard-sect:hover{
+    transform: scale(1.8);
+    transition: .6s ease-out;    
+}
+
+#navbarColor01 .nav-item{
+    padding-right: 25px;
+}
+#navbarColor01 .nav-item > a{
+    text-decoration: none;
+    
+}
+
+
+
+
+/* 
+
+@media(min-width: 769px){
+    
+    #main-nav{
+        visibility: hidden;
+    }
+    #bg-logo-teli{
+        color:#C6242B;
+        text-decoration: none;
+    }
+
+    .bg-logo{
+        position: relative;
+        right: 30%;
+    }
+    .bg-logo-info{
+        position: relative;
+        left: 60%;
+    }
+} */
